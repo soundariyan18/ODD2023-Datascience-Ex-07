@@ -160,7 +160,7 @@ selected_features = x.columns[feature_importances > threshold]
 
 print("Selected Features:")
 print(selected_feature)
-
+```
 ## OUPUT
 
 ![image](https://github.com/soundariyan18/ODD2023-Datascience-Ex-07/assets/119393307/3fe4d229-7f3f-4f94-b194-c0949ca6dd98)
